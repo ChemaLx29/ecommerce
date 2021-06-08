@@ -79,3 +79,4 @@ class Compra(models.Model):
     idDeliveryAgents = models.IntegerField()
 
     idCarrito = models.IntegerField()
+ 
